@@ -13,7 +13,7 @@ public class JsonTest {
 		types.add("training");
 		form.setTypes(types);
 		
-		System.out.println();
+		System.out.println("test");
 	}
 	
 	public static void add(List<String> result) {
